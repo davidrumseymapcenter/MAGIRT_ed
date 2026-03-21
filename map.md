@@ -44,7 +44,7 @@
  * [IFLA: Guidelines for Planning the Digitization of Rare and Unique Materials (2015)](https://repository.ifla.org/handle/20.500.14598/454)
 
 #### Collection Access and Maintenance
-* [Map Collection Security Guidelines (2010)](https://www.ala.org/sites/default/files/rt/content/publicationsab/Map%20Coll%20Security%20Guidelines.pdf) 
+* [MAGIRT: Map Collection Security Guidelines (2010)](https://www.ala.org/sites/default/files/rt/content/publicationsab/Map%20Coll%20Security%20Guidelines.pdf) 
 
 
 ## I.C. Information Services
@@ -61,6 +61,7 @@
 ##### Production and Publication
 
 ##### Aerial Photography and Satellite Imagery
+ * [WAML: Map Librarian's Toolbox/ Aerial Photography (Ross, 2024)](https://waml.org/resources/toolbox/collections/aerial-photography/)
 
 #### User Education
  * [WAML: Cartographic Resource Instruction (Physical Maps) (Contributor "geolbrow", 2024)](https://waml.org/resources/toolbox/instruction/cartographic-resource-instruction-physical-maps/)  
