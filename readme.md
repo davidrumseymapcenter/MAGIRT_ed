@@ -1,16 +1,16 @@
-# Prototype: Professional Resources Index for Map & GIS Librarians
+# Working Document: Professional Resources Index for Map & GIS Librarians
 
-[![View Prototype](https://img.shields.io/badge/View-Prototype-blue?style=for-the-badge)](index.md)
+[![Go to the List](https://img.shields.io/badge/GO_TO_THE_LIST-24292e?style=for-the-badge&logo=github)](index.md)
+
+[**→ Click here to view the full resource list**](https://davidrumseymapcenter.github.io/MAGIRT_ed/)
 
 ## Project Overview
-This repository is a prototype for an **Index of Professional Resources** mapped to the [2018 MAGIRT Core Competencies](uploaded:MAGIRT CoreComp_2018_ALAconnect.pdf). 
+This repository is a prototype for an **Index of Professional Resources** mapped to the [2018 MAGIRT Core Competencies](https://alair.ala.org/items/8c03c486-04d1-44ea-845a-839adca33286). 
 
-This project is a strategic initiative by the **MAGIRT Education Committee** to support map and GIS librarians at all career stages. Our field is changing rapidly; this index is designed to facilitate self-driven continuing education, providing a centralized "knowledge hub" for both new professionals and seasoned experts.
+This project is an exploratory initiative focused on the potential for reviving the **MAGIRT Education Committee** to provide continuing education support for map and GIS librarians at all career stages. Our field is changing rapidly; this index is intended to be a resource for facilitating self-driven professional development, providing a centralized "knowledge hub" for both new professionals and seasoned experts.
 
 ## Roadmap & Methodology
-We are following a data-driven, two-step process:
-
-1.  **Step 1: Access** – Centralize authoritative resources from across the profession. Sources include:
+1.  **Step 1: Access** – Identify and centralize authoritative resources from across the profession. Sources include:
     * **Internal:** MAGIRT and ALA publications and webinars.
     * **External:** WAML Archive, UCGIS GIS&T Body of Knowledge (BoK), IFLA, Esri Training, Library Juice Academy, and community-shared resources from the MAPS-L listserv.
 2.  **Step 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
@@ -25,7 +25,7 @@ We welcome suggestions for resources (tutorials, articles, videos, or tools) tha
 * **Email the Author:** Contact the project lead directly at **kllarsen@stanford.edu**.
 
 ## Get Involved
-The "Gap Workflow" is currently under development. As we identify areas lacking sufficient training materials, we will need volunteers to help develop new guides, webinars, and best practice documents. 
+This project is currently under development. As we identify areas lacking sufficient training materials, we will need volunteers to help develop new guides, webinars, and best practice documents. 
 
 **If you are interested in joining the MAGIRT Education Committee or helping to fill a specific resource gap, please reach out to Kristina Larsen (kllarsen@stanford.edu).**
 
