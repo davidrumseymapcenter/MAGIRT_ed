@@ -1,6 +1,6 @@
 # MAGIRT Professional Resources Index
-
 [Map Librarianship](map.md) | [GIS Librarianship](gis.md) | [Cataloging & Metadata](cataloging.md)
+
 ---
 
 ## Overview
@@ -14,5 +14,5 @@ Following the findings of [**Bishop & Larsen (2024)**](https://research-ebsco-co
 
 ## Audit & Maintenance
 * **Last Resource Audit:** March 21, 2026
-* **Contributors:** Kristina Larsen (kllarsen@stanford.edu), ...) 
+* **Contributors:** Kristina Larsen (kllarsen@stanford.edu), ... 
 * **BoK Versioning:** Technical links utilize the UCGIS "Living Textbook" platform, reflecting quarterly peer-reviewed updates.
