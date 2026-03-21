@@ -44,39 +44,41 @@
  * [IFLA: Guidelines for Planning the Digitization of Rare and Unique Materials (2015)](https://repository.ifla.org/handle/20.500.14598/454)
 
 #### Collection Access and Maintenance
+* [Map Collection Security Guidelines (2010)](https://www.ala.org/sites/default/files/rt/content/publicationsab/Map%20Coll%20Security%20Guidelines.pdf) 
+
 
 ## I.C. Information Services
 ### I.C.1. Reference and Instruction **[Priority: High]** <small>*(Score: 3.58)*</small>
 
 #### Reference
 
- ##### Map Library Reference Interviews
+##### Map Library Reference Interviews
 
- ##### Resource Discovery 
+##### Resource Discovery 
 
- ##### Geographic and Cartographic Principles
+##### Geographic and Cartographic Principles
 
- ##### Production and Publication
+##### Production and Publication
 
- ##### Aerial Photography and Satellite Imagery
+##### Aerial Photography and Satellite Imagery
 
 #### User Education
  * [WAML: Cartographic Resource Instruction (Physical Maps) (Contributor "geolbrow", 2024)](https://waml.org/resources/toolbox/instruction/cartographic-resource-instruction-physical-maps/)  
 
 #### Data Services
 
- ##### Discovery of spatial data
+##### Discovery of spatial data
  * [WAML Toolbox: Geospatial Data (Jablonski et. al. 2022)](https://waml.org/resources/toolbox/category/geospatial-data/)
 
- ##### Use of GIS software
+##### Use of GIS software
 
- ##### Metadata
+##### Metadata
 
- ##### Data Management Planning
+##### Data Management Planning
 
- ##### Data Preservation
+##### Data Preservation
 
- ##### Promoting Best Practices through workshops, videos, and consultations
+##### Promoting Best Practices through workshops, videos, and consultations
 
 ---
 **Note on Resources:** Links are verified as of March 2026.
