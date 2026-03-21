@@ -2,46 +2,42 @@
 [Home](index.md) | **Map Librarianship** | [GIS Librarianship](gis.md) | [Cataloging & Metadata](cataloging.md)
 ---
 
-*Last resource audit: March 20, 2026*
+*Last link verification: March 20, 2026*
 
 ## I.A. Organizational Management
 #### I.A.1. Management <small>*(Score: 3.12)*</small>
 * **Strategic Planning**
-    * [IFLA: Guidelines for Planning the Digitization of Rare and Unique Materials](https://www.ifla.org/publications/node/2231) — Essential for high-level project planning for map archives.
+    * [IFLA: Guidelines for Planning the Digitization of Rare and Unique Materials](https://repository.ifla.org/handle/20.500.14598/454)
 * **Project Management**
     * [WAML Map Librarian’s Toolbox: Grant Writing and Management](https://waml.org/resources/toolbox/)
-* **Fiscal Management**
-* **Fundraising**
 
 #### I.A.2. Marketing and Outreach **[Priority: High]** <small>*(Score: 3.58)*</small>
 * **Intra-institutional marketing and inter-institutional marketing**
-    * [WAML Information Bulletin (IB) Archive](https://waml.org/waml-information-bulletin/)
+    * [MAGIRT: Marketing and Outreach Examples (ALAIR)](https://alair.ala.org/handle/11213/102) — Archive of promotional materials and posters.
 * **Online Engagement**
-    * [MAGIRT: Map and Geospatial Information Round Table (ALA) Facebook Group](https://www.facebook.com/groups/MAGIRT/) — Active community for real-time outreach strategies.
+    * [MAGIRT YouTube Channel](https://www.youtube.com/@magirt-ala) — Recent webinars on professional engagement and community building.
 
 ## I.B. Resource Management
 #### I.B.1. Collection Development <small>*(Score: 3.28)*</small>
-* **Acquisitions**
-    * [WAML Toolbox: Map Vendors](https://waml.org/resources/toolbox/)
 * **Collection Management**
-    * [IFLA: Guidelines for Map Libraries](https://www.ifla.org/publications/ifla-professional-reports-92) — International standards for developing and maintaining a map collection.
-    * [MAGIRT: Helpful Hints for Small Map Collections](https://www.ala.org/rt/magirt/publications-and-resources/helpful-hints) — Detailed guides on map storage and selection.
+    * [IFLA: Guidelines for Map Libraries](https://repository.ifla.org/handle/20.500.14598/1070)
+    * [MAGIRT: Helpful Hints for Small Map Collections](https://www.ala.org/rt/magirt/publications-and-resources/helpful-hints) — *Note: If this main page redirects, use the [ALAIR Archive link](https://alair.ala.org/handle/11213/17804).*
 
 #### I.B.2. Collection Maintenance and Organization <small>*(Score: 3.10)*</small>
 * **Facilities and Equipment**
-    * [IFLA: Standards for the Care and Handling of Maps](https://www.ifla.org/publications/standards-for-the-care-and-handling-of-maps-eng) — Comprehensive global standards for physical map storage.
+    * [IFLA: Principles for the Care and Handling of Library Material](https://repository.ifla.org/handle/20.500.14598/1183)
 * **Preservation of resources (print and digital)**
-    * [MAGIRT: Preservation and Scanning Guidelines](https://www.ala.org/rt/magirt/publications-and-resources/electronic-publications) — Access points for MAGIRT's digital preservation webinars and docs.
+    * [MAGIRT: Preservation Guidelines (ALAIR)](https://alair.ala.org/handle/11213/101) — Specific documentation on the care of cartographic materials.
 * **Collection Access and Maintenance**
 
 ## I.C. Information Services
 #### I.C.1. Reference and Instruction **[Priority: High]** <small>*(Score: 3.58)*</small>
 * **Reference**
-    * [MAGIRT: LibGuide for Map and Geospatial Information](https://ala.libguides.com/magirt) — Central hub for reference tools and discovery layers.
+    * [MAGIRT: LibGuide for Map and Geospatial Information](https://ala.libguides.com/magirt)
 * **User Education**
-    * [IFLA: Statement on Libraries and Intellectual Freedom](https://www.ifla.org/publications/ifla-unesco-school-library-manifesto-1999) — Contextualizing user education within global library values.
+    * [MAGIRT: Map & GIS Education Webinars](https://www.youtube.com/@magirt-ala/videos) — Direct access to training for new map librarians.
 * **Data Services**
     * [WAML Toolbox: Reference Resources](https://waml.org/resources/toolbox/)
 
 ---
-**Note on Resources:** This section combines regional (WAML), national (MAGIRT), and international (IFLA) standards to provide a comprehensive professional development roadmap.
+**Note on Resources:** Links are verified as of March 2026. Due to frequent site migrations by professional organizations, some links may redirect to the ALA Institutional Repository (ALAIR).
