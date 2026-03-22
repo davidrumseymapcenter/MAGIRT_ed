@@ -72,6 +72,9 @@
  * [WAML Toolbox: Geospatial Data (Jablonski et. al. 2022)](https://waml.org/resources/toolbox/category/geospatial-data/)
 
 ##### Use of GIS software
+ * [GLOW: INSTATS What is GIS? (Bearman, 2025)](https://instats.org/seminar/what-is-gis-free-seminar-1)
+ * [GLOW: COCC Intro to Geospatial Science and GIS (Kennelly,2023)](https://cocc.instructure.com/courses/12214)
+
 
 ##### Metadata
 

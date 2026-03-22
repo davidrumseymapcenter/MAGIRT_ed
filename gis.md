@@ -4,6 +4,20 @@
 ---
 
 *Last link verification: March 21, 2026*
+## II.A. Organizational Management
+### II.A.1. Management
+
+#### Strategic Planning
+
+#### Project Management
+
+#### Fiscal Management
+
+#### Fundraising
+
+### II.A.2. Marketing and Outreach
+
+#### Communications and Event Planning
 
 ## II.B. Resource Management
 ### II.B.1. Data Discovery and Acquisition **[Priority: High]** <small>*(Score: 3.59)*</small>
@@ -50,17 +64,77 @@
 
 #### Current knowledge of system requirements for GIS
 
+### II.B.5. Technological Infrastructure and Facilities 
+
+#### Management
+
+#### Hardware
+
+#### Software
+
+#### Policy
+
 ### II.B.6. Online Geospatial Technologies <small>*(Score: 3.24)*</small>
 
-#### Understanding of web services and cloud GIS
+#### Understanding of web services and their use as data sources for online and desktop platforms
  * [UCGIS BoK: Web GIS [CP-04-014]](https://gistbok-topics.ucgis.org/CP-04-014)
  * [UCGIS BoK: GIS&T and Geospatial Web Services [CP-03-020]](https://gistbok-topics.ucgis.org/CP-03-020)
 
+#### Ability to teach people how to use cloud-based GIS tools 
+
+#### Ability to manage organizational subscriptions and licensing
+
+#### Knowledge of GIS server technology
+
 ### II.B.7. Related Technologies <small>*(Score: 2.32)*</small>
 
-#### Programming and Scripting
+#### Operation of large format scanners and printers
+
+#### Ability to organize data in tabular format 
+
+#### Knowledge of GPS (global positioning systems) technologies
+
+#### Ability to assist patrons in collecting, downloading and utilizing GPS data in a GIS 
+
+#### Knowledge of statistics & data visualization
+
+#### Knowledge of computer programming
+
+#### Ability to create scripts for batch processing, data ingestion, web services, digital library creation and integration, and other geo-processing applications
  * [UCGIS BoK: Programming and Scripting [PD-01-021]](https://gistbok-topics.ucgis.org/PD-01-021)
  * [UCGIS BoK: GDAL/OGR and IO Libraries [PD-05-033]](https://gistbok-topics.ucgis.org/PD-05-033)
+
+## II.C. Information Services
+
+### II.C.1. Reference 
+
+#### Knowledge of resources for learning about GIS and using GIS software
+
+#### Working knowledge of multiple GIS technologies including open-source and commercial products
+
+#### Knowledge of GIS applications specific to an industry or discipline
+
+### II.C.2. Instruction 
+
+#### Ability to develop and deliver formal introductory GIS instruction sessions and/or workshops
+
+#### Ability to build online guides and tutorials
+
+#### Ability to conduct one-on-one consultations
+
+#### Knowledge of instruction options and ability to manage and facilitate access to commercial options for instruction
+
+### II.C.3. Research Consultation
+
+#### Working knowledge of GIS project planning and implementation including data organization
+
+#### Working knowledge of data management planning and issues of long term data preservation
+
+#### Knowledge of data preservation standards
+
+#### Ability to provide guidance on creating data management plans as appropriate
+
+#### Ability to provide guidance to researchers on best practices of geospatial data management through workshops, videos and consultations
 
 ---
 **Note on Resources:** Technical links utilize the UCGIS "Living Textbook" platform. If a link fails, use the bracketed Topic Code (e.g., [CV-03-006]) in the [BoK Search Tool](https://gistbok-topics.ucgis.org/).

@@ -18,7 +18,7 @@ This project is an exploratory initiative focused on the potential for reviving 
 ## Roadmap & Methodology
 1.  **Step 1: Access** – Identify and centralize authoritative resources from across the profession. Sources include:
     * **Internal:** MAGIRT and ALA / ACRL publications and webinars.
-    * **External:** WAML Archive, UCGIS GIS&T Body of Knowledge (BoK), IFLA,community-shared resources from the MAPS-L listserv, etc.
+    * **External:** WAML Archive, UCGIS GIS&T Body of Knowledge (BoK), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), community-shared resources from the MAPS-L listserv, etc.
 2.  **Step 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
 3.  **Step 3: Develop New Resources** - In collaboration with WAML and other active professional organizations, encourage the creation of new resources to address information gaps.
 
