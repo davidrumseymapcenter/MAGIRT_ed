@@ -16,11 +16,14 @@ This repository is a prototype for an **Index of Professional Resources** mapped
 This project is an exploratory initiative focused on the potential for reviving the **MAGIRT Education Committee** to provide continuing education support for map and GIS librarians at all career stages. Our field is changing rapidly; this index is intended to be a resource for facilitating self-driven professional development, providing a centralized "knowledge hub" for both new professionals and seasoned experts.
 
 ## Roadmap & Methodology
-**Phase 1: Access** – Identify and centralize authoritative resources from across the profession. Sources include:
+- **Phase 1: Access** – Identify and centralize authoritative resources from across the profession. Sources include:
+
     * **Internal:** MAGIRT and ALA / ACRL publications and webinars.
+
     * **External:** WAML Archive, UCGIS GIS&T Body of Knowledge (BoK), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), community-shared resources from the MAPS-L listserv, etc.
-**Phase 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
-**Phase 3: Develop New Resources** - In collaboration with WAML and other active professional organizations, encourage the creation of new resources to address information gaps.
+    
+- **Phase 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
+- **Phase 3: Develop New Resources** - In collaboration with WAML and other active professional organizations, encourage the creation of new resources to address information gaps.
 
 ### Prioritization
 Competencies are ranked based on **Bishop & Larsen (2024)**, [*"Validating Current Core Competencies: A Survey of Map and Geographic Information Librarianship Practices."*](https://research-ebsco-com.stanford.idm.oclc.org/linkprocessor/plink?id=cb561608-5981-38f3-9d0c-16ad3e631e97) We have labeled competencies with a mean importance score of **3.5 or higher** as **[Priority: High]**. These areas represent the most critical service-oriented and foundational skills identified by practitioners who responded to the study's survey.
