@@ -1,5 +1,5 @@
 # II. Core Competencies for GIS Librarianship
-[Home](index.md) | [Map Librarianship](map.md) | **GIS Librarianship** | [Cataloging & Metadata](cataloging.md)
+[Home](index.md) | [General Cartographic Competencies](general.md) | [Map Librarianship](map.md) | **GIS Librarianship** | [Cataloging & Metadata](cataloging.md)
 
 ---
 

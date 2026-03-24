@@ -1,5 +1,5 @@
 # III. Core Competencies for Cartographic Cataloging and Metadata Creation
-[Home](index.md) | [Map Librarianship](map.md) | [GIS Librarianship](gis.md) | **Cataloging & Metadata**
+[Home](index.md) | [General Cartographic Competencies](general.md) | [Map Librarianship](map.md) | [GIS Librarianship](gis.md) | **Cataloging & Metadata**
 
 ---
 
