@@ -51,8 +51,11 @@
 ### I.C.1. Reference and Instruction **[Priority: High]** <small>*(Score: 3.58)*</small>
 
 #### Reference
+ * [ALA/RUSA: Guidelines for Behavioral Performance of Reference and Information Service Providers](https://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral)
 
 ##### Map Library Reference Interviews
+ * [Reference Interviews: Getting Things Right (Coonin & Levine, 2012)*The Reference Librarian*](https://www.tandfonline.com/doi/abs/10.1080/02763877.2013.735578)
+ * [Remote reference consultations are here to stay (Reed, 2021) *Communications in Information Literacy*](https://pdxscholar.library.pdx.edu/comminfolit/vol15/iss2/6/)
 
 ##### Resource Discovery 
 
