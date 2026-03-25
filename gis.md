@@ -24,7 +24,6 @@
 
 #### Knowledge of spatial data resources
  * [UCGIS BoK: Data Sources [DC-01-031]](https://gistbok-topics.ucgis.org/DC)
- * [UCGIS BoK: Open Data [KE-01-002]](https://gistbok-topics.ucgis.org/KE-01-002)
 
 #### Knowledge of copyright limitations and licensing
  * [UCGIS BoK: Intellectual Property Rights [GS-04-032]](https://gistbok-topics.ucgis.org/GS-04-032)

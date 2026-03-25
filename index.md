@@ -20,16 +20,13 @@ This project is an exploratory initiative focused on the potential for reviving 
 
     * **Internal:** MAGIRT and ALA / ACRL publications and webinars.
 
-    * **External:** WAML Archive, UCGIS GIS&T Body of Knowledge (BoK), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), community-shared resources from the MAPS-L listserv, etc.
-    
+    * **External:** WAML Archive, UCGIS [GIS&T Body of Knowledge (BoK)](https://www.ucgis.org/site/gis-t-body-of-knowledge), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), [Geolibraries/ROLGGE](https://github.com/bellegis/geolibraries), community-shared resources from the MAPS-L listserv, etc.
+
 - **Phase 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
 - **Phase 3: Develop New Resources** - In collaboration with WAML and other active professional organizations, encourage the creation of new resources to address information gaps.
 
 ### Prioritization
 Competencies are ranked based on **Bishop & Larsen (2024)**, [*"Validating Current Core Competencies: A Survey of Map and Geographic Information Librarianship Practices."*](https://research-ebsco-com.stanford.idm.oclc.org/linkprocessor/plink?id=cb561608-5981-38f3-9d0c-16ad3e631e97) We have labeled competencies with a mean importance score of **3.5 or higher** as **[Priority: High]**. These areas represent the most critical service-oriented and foundational skills identified by practitioners who responded to the study's survey.
-
-## Github Repository
-Temporarily housed in the [David Rumsey Map Center's Repository](https://github.com/davidrumseymapcenter/MAGIRT_ed).
 
 ## Get Involved
 
@@ -44,7 +41,9 @@ We welcome suggestions for resources (tutorials, articles, videos, or tools) tha
 * **Submit a Resource:** [Open a GitHub Issue](https://github.com/davidrumseymapcenter/MAGIRT_ed/issues/new) to suggest a link. Please include the resource title and which competency it maps to.
 * **Email the Author:** Alternatively, contact Kristina directly at **kllarsen@stanford.edu**.
 
-
+## Github Repository
+Temporarily housed in the David Rumsey Map Center's Repository.
+[![Go to Repo](https://img.shields.io/badge/Return_to-Repository-blue?style=for-the-badge&logo=github)](https://github.com/davidrumseymapcenter/MAGIRT_ed)
 
 
 ## Audit & Maintenance
