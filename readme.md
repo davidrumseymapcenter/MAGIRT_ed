@@ -30,10 +30,12 @@ This project is currently under development. As we identify areas lacking suffic
 ### Suggest Additions
 We welcome suggestions for resources (tutorials, articles, videos, or tools) that align with any of the core competency subareas.
 
-* **Submit a Resource:** [Open a GitHub Issue](issues/new) to suggest a link. Please include the resource title and which competency it maps to.
+* **Submit a Resource:** [Click here to open a Resource Suggestion Ticket](https://github.com/davidrumseymapcenter/MAGIRT_ed/issues/new?template=add-resource.md)
 * **Email the Author:** Contact the project lead directly at **kllarsen@stanford.edu**.
 
-
+### Report Broken Links
+Linkrot happens! Help us stay on top of changes by submitting a broken link report. 
+* **Report a Broken Link:** [Click here to open a Broket Link Ticket](https://github.com/davidrumseymapcenter/MAGIRT_ed/issues/new?template=add-resource.md)
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material for non-commercial purposes.
