@@ -13,10 +13,14 @@
  - [A Research Guide to Cartographic Resources](https://www.bloomsbury.com/us/research-guide-to-cartographic-resources-9781538100837/) by Eva H. Dodsworth, Bloomsbury Publishing Inc (2018)
 
 ### Knowledge of information and geospatial literacy standards for disciplines <small>*(Score: 2.89)*</small>
+ - [Curriculum Data Deep Dive: Identifying Data Literacies in the Disciplines](https://doi.org/10.7191/jeslib.2020.1169), Christina M. Klenke, Teresa Auch Schultz, Rayla E. Tokarz, Elena S. Asadbakht, Journal of eScience Librarianship (2020)
  - [Framework for Information Literacy for Higher Education](https://www.ala.org/acrl/standards/ilframework), Association of College and Research Libraries (2016) 
+ - [Data Information Literacy: Librarians, Data, and the Education of a New Generation of Researchers](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1042&context=purduepress_ebooks), edited by Jake Carlson & Lisa R. Johnston, Purdue University Press (2015) 
+
 
 ### Knowledge of creation and distribution systems for contemporary cartographic resources <small>*(Score: 2.87)*</small>
- -  [Modern Web Cartography:Open Source Map Solutions with OpenStreetMap, Overpass, Nominatim, Leaflet and Folium](https://doi.org/10.1007/979-8-8688-2335-0), Patrick Marie, Apress Berkeley, CA (2026)
+ - [GeoPlatform.gov](https://www.geoplatform.gov/), the US government's spatial data repository, and [GeoPlatform Knowledge Base](https://kb.geoplatform.gov/gp-info/guiding-documents-and-references.html), containing documentation and training material, Federal Geographic Data Committee (FGDC)
+ - [Modern Web Cartography:Open Source Map Solutions with OpenStreetMap, Overpass, Nominatim, Leaflet and Folium](https://doi.org/10.1007/979-8-8688-2335-0), Patrick Marie, Apress Berkeley, CA (2026)
 
 ### Knowledge of how to use satellite imagery and aerial photography with indexes <small>*(Score: 2.62)*</small>
  - [Finding Aerial Photographs](https://www.library.ucsb.edu/geospatial/finding-airphotos), UC Santa Barbara Library 
