@@ -20,7 +20,7 @@ This project is an exploratory initiative focused on the potential for reviving 
 
     * **Internal:** MAGIRT and ALA / ACRL publications and webinars.
 
-    * **External:** WAML Archive, UCGIS [GIS&T Body of Knowledge (BoK)](https://www.ucgis.org/site/gis-t-body-of-knowledge), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), [Geolibraries/ROLGGE](https://github.com/bellegis/geolibraries), community-shared resources from the MAPS-L listserv, etc.
+    * **External:** WAML Archive, UCGIS [GIS&T Body of Knowledge (BoK)](https://www.ucgis.org/site/gis-t-body-of-knowledge), IFLA, the [GLOW OER list](https://sites.google.com/view/glow-gis-librarians/resources-research/oer-resources), [Geolibraries/ROLGGE](https://github.com/bellegis/geolibraries), community-shared resources from the MAPS-L listserv, University Libguides, etc.
 
 - **Phase 2: Gap Analysis** – Identify areas where resources are missing, outdated, or inaccessible.
 - **Phase 3: Develop New Resources** - In collaboration with WAML and other active professional organizations, encourage the creation of new resources to address information gaps.
