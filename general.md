@@ -18,7 +18,7 @@
  - [Data Information Literacy: Librarians, Data, and the Education of a New Generation of Researchers](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1042&context=purduepress_ebooks), edited by Jake Carlson & Lisa R. Johnston, Purdue University Press (2015) 
 
 ### Knowledge of creation and distribution systems for contemporary cartographic resources <small>*(Score: 2.87)*</small>
-- [Mapping and Geospatial Resources from the Federal Depository Library Program] (https://www.ala.org/sites/default/files/rt/content/publicationsab/Mapping%20and%20Geospatial%20Resources%20FINAL%2020190128.pdf)(MAGIRT Electronic Publication No. 14), Compiled by John A. Olson (2019)
+- [Mapping and Geospatial Resources from the Federal Depository Library Program](https://www.ala.org/sites/default/files/rt/content/publicationsab/Mapping%20and%20Geospatial%20Resources%20FINAL%2020190128.pdf) (MAGIRT Electronic Publication No. 14), Compiled by John A. Olson (2019)
  - [GeoPlatform.gov](https://www.geoplatform.gov/), the US government's spatial data repository, and [GeoPlatform Knowledge Base](https://kb.geoplatform.gov/gp-info/guiding-documents-and-references.html), containing documentation and training material, Federal Geographic Data Committee (FGDC)
  - [Modern Web Cartography:Open Source Map Solutions with OpenStreetMap, Overpass, Nominatim, Leaflet and Folium](https://doi.org/10.1007/979-8-8688-2335-0), Patrick Marie, Apress Berkeley, CA (2026)
 
