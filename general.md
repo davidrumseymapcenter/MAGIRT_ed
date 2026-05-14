@@ -8,13 +8,19 @@
 ## Knowledge Areas
 ### Knowledge of geographic and cartographic principles, such as scale, projections, coordinate systems, and types of maps <small>*(Score: 3.56)*</small>
  - [The Nature of Geographic Information](https://courses.ems.psu.edu/natureofgeoinfo/node/1405). Course materials prepared by David DiBiase, with contributions from Ryan Baxter, Beth King, Jim Sloan, and Adreienne Goldsberry, College of Earth and Mineral Sciences, The Pennsylvania State University.
+
 ### Knowledge of authoritative references for information about cartographic resources <small>*(Score: 3.31)*</small>
  - [A Research Guide to Cartographic Resources](https://www.bloomsbury.com/us/research-guide-to-cartographic-resources-9781538100837/) by Eva H. Dodsworth, Bloomsbury Publishing Inc (2018)
+
 ### Knowledge of information and geospatial literacy standards for disciplines <small>*(Score: 2.89)*</small>
  - [Framework for Information Literacy for Higher Education](https://www.ala.org/acrl/standards/ilframework), Association of College and Research Libraries (2016) 
+
 ### Knowledge of creation and distribution systems for contemporary cartographic resources <small>*(Score: 2.87)*</small>
- -  [Modern Web Cartography:Open Source Map Solutions with OpenStreetMap, Overpass, Nominatim, Leaflet and Folium](https://doi.org/10.1007/979-8-8688-2335-0), Patrick Marie, Apress Berkeley, CA (2026) 
+ -  [Modern Web Cartography:Open Source Map Solutions with OpenStreetMap, Overpass, Nominatim, Leaflet and Folium](https://doi.org/10.1007/979-8-8688-2335-0), Patrick Marie, Apress Berkeley, CA (2026)
+
 ### Knowledge of how to use satellite imagery and aerial photography with indexes <small>*(Score: 2.62)*</small>
- - [Reading Aerial Photography Indexes](https://www.library.ucsb.edu/geospatial/airphotos/reading-aerial-photography-indexes), UC Santa Barbara 
+ - [Finding Aerial Photographs](https://www.library.ucsb.edu/geospatial/finding-airphotos), UC Santa Barbara Library 
+ - [Reading Aerial Photography Indexes](https://www.library.ucsb.edu/geospatial/airphotos/reading-aerial-photography-indexes), UC Santa Barbara Library
+
 ### Knowledge of the history of the production, publication, and distribution of cartographic information <small>*(Score: 2.42)*</small>
- - [The History of Cartography Series](https://press.uchicago.edu/sites/hoc/index.html) , various authors, University of Chicago Press
+ - [The History of Cartography Series](https://press.uchicago.edu/sites/hoc/index.html), various authors and dates of publication, University of Chicago Press
